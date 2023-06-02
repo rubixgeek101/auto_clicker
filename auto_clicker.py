@@ -22,7 +22,7 @@ args = parser.parse_args()
 
 n = args.interval
 
-print('Press Ctrl-C in the console to exit.', flush = True)
+print('Press Ctrl-C in the console to exit.\n\nRunning... ', end = '', flush = True)
 
 
 #clicker
