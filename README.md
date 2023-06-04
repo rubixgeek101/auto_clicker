@@ -1,4 +1,4 @@
-# auto_clicker
+# Auto Clicker
 
 This program clicks the left mouse button every given interval.
 
@@ -14,3 +14,11 @@ or you can run it with a given interval (in seconds):
 python auto_clicker.py --interval N
 ```
 where `N` is a float for the interval.
+
+# Requirements
+
+To download the necessary dependency, run:
+
+```
+pip install -r requirements.txt
+```
